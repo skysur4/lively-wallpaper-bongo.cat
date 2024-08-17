@@ -18,7 +18,7 @@ MS 스토어 [링크](https://apps.microsoft.com/detail/9ntm2qc6qws7?hl=ko-kr&gl
 
 #### 2. 기본 월페이퍼 폴더 확인
 - 라이브 월페이퍼 기본 폴더는 아래와 같은 되어 있음
-C:\Users\{사용자}\AppData\Local\Packages\12030rocksdanister.LivelyWallpaper_97hta09mmv6hy\LocalCache\Local\Lively Wallpaper\Library\wallpapers
+C:\Users\{사용자 아이디}\AppData\Local\Packages\12030rocksdanister.LivelyWallpaper_97hta09mmv6hy\LocalCache\Local\Lively Wallpaper\Library\wallpapers
 
 - 그러나 아래와 같이 기본 설치된 월페이퍼 메뉴의 ``파일 위치 열기`` 메뉴를 클릭하면 쉽게 기본 폴더 접근이 가능함
 <p align="center">
